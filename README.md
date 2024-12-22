@@ -70,16 +70,26 @@ Para ejecutar Alura Flix localmente, sigue estos pasos:
 
 ## Capturas: 
 
-![Captura de pantalla a](https://github.com/user-attachments/assets/0c05b339-d37a-4cec-8641-c4ac47ff059c)
+
+
+
+![Captura de pantalla 1a](https://github.com/user-attachments/assets/d0514f8a-78f0-473a-bddc-01832127903c)
 
 
 
 
-![Captura de pantalla b](https://github.com/user-attachments/assets/ac3c7dc4-7d00-49a7-b60e-fd451432b36e)
+![Captura de pantalla 2a](https://github.com/user-attachments/assets/754289cb-9750-494c-8e25-3c119756fa62)
 
 
 
-![Captura de pantalla c](https://github.com/user-attachments/assets/da8c39d6-535c-496c-82ac-eb9009690cb8)
+
+![Captura de pantalla 3a](https://github.com/user-attachments/assets/a751421f-f172-4150-b43f-fd798a3b88c6)
+
+
+
+
+
+
 
 
 
