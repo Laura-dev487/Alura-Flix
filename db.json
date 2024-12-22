@@ -1,0 +1,76 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "categoria": "Front End",
+      "titulo": "cuando usar let,var y const",
+      "imagen": "https://i.postimg.cc/Y0tZx2Bt/front1.jpg",
+      "video": "https://www.youtube.com/watch?v=PztCEdIJITY",
+      "descripcion": "En este video te sacamos estas dudas"
+    },
+    {
+      "id": "3",
+      "categoria": "Innovación y Gestión",
+      "titulo": "Que son las softs skills",
+      "imagen": "https://i.postimg.cc/cLvjh52t/inov-Gest-2.jpg",
+      "video": "https://www.youtube.com/watch?v=vhwspfvI52k&t=189s",
+      "descripcion": " Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales "
+    },
+    {
+      "id": "4",
+      "categoria": "BackEnd",
+      "titulo": "Spring Framework. ¿Qué es ? ",
+      "imagen": "https://i.postimg.cc/Zq3QtvTT/back-1.jpg",
+      "video": "https://www.youtube.com/watch?v=t-iqt1b2qqk",
+      "descripcion": " Spring es el framework más usado de Java. Nos ofrece herramientas que nos permiten crear proyectos más avanzados"
+    },
+    {
+      "id": "5",
+      "categoria": "BackEnd",
+      "titulo": "Que es SQL y NoSSQL",
+      "imagen": "https://i.postimg.cc/SshvyQsc/back-2.jpg",
+      "video": "https://www.youtube.com/watch?v=cLLKVd5CNLc",
+      "descripcion": "¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL) y cuáles son las principales ventajas de cada una?"
+    },
+    {
+      "id": "7",
+      "categoria": "Innovación y Gestión",
+      "titulo": "7 Soft Skills más deseadas por las empresas",
+      "imagen": "https://i.postimg.cc/8PB1t3vC/inov-Gest-1.jpg",
+      "video": "https://www.youtube.com/watch?v=YhR7Zp8NUzE",
+      "descripcion": " La importancia de estas habilidades y porque son tan requeridas en el mercado laboral."
+    },
+    {
+      "id": "7ae2",
+      "categoria": "BackEnd",
+      "titulo": "Simplificando tu código en Java: Conoce los enum",
+      "imagen": "https://i.postimg.cc/mDYKMzqd/back-3.jpg",
+      "video": "https://www.youtube.com/watch?v=EoPvlE85XAQ&t=68s",
+      "descripcion": "La instructora Génesys Rondón nos enseña a simplificar esta tarea usando un tipo de dato especial llamado enum"
+    },
+    {
+      "id": "ea94",
+      "categoria": "Front End",
+      "titulo": "que es javascript",
+      "imagen": "https://i.postimg.cc/63JDyLH2/front2.jpg",
+      "video": "https://www.youtube.com/watch?v=GJfOSoaXk4s&t=433s",
+      "descripcion": "¿qué es y cómo se hizo este lenguaje que genera muchas discusiones"
+    },
+    {
+      "id": "3373",
+      "categoria": "Front End",
+      "titulo": "Aprendiendo a utilizar Figma",
+      "imagen": "https://i.postimg.cc/DfctwG10/front4.jpg",
+      "video": "https://www.youtube.com/watch?v=UuAX5azcvDQ",
+      "descripcion": "En este Alura+, Genesys, instructora de Alura Latam, nos responde esa pregunta y nos muestra esta conocida herramienta"
+    },
+    {
+      "id": "d3fa",
+      "categoria": "Innovación y Gestión",
+      "titulo": "Empresas que aprenden",
+      "imagen": "https://i.postimg.cc/y82GbyCQ/inov-Gest-3.jpg",
+      "video": "https://www.youtube.com/watch?v=mwNfWRsDDWE",
+      "descripcion": "El papel de la organización en el proceso de aprendizaje"
+    }
+  ]
+}
